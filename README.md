@@ -68,7 +68,7 @@ Currently, I am strengthening my backend knowledge, system design fundamentals, 
 
 - Farm Assist (Final Year Project)  
   A digital platform connecting farmers, agricultural experts, and suppliers  
-  Tech: Flutter, MongoDB  
+  Tech: Flutter, React, Node.js, Express, MongoDB,
 
 - Portfolio Website  
   Responsive personal portfolio  
