@@ -59,7 +59,12 @@ Currently, I am strengthening my backend knowledge, system design fundamentals, 
 
 - CareerSync  
   A full-stack platform for interview management and career tracking  
-  Tech: React, TypeScript, Node.js, Express, MongoDB, Docker, Nginx, AWS  
+  Tech: React, TypeScript, Node.js, Express, MongoDB, Docker, Nginx, AWS
+
+  - Bitezzo  
+  A food ordering and management platform built to understand real-world application flow  
+  Tech: React, TypeScript, Node.js, Express, MongoDB  
+  Focus Areas: Authentication, role-based access, API integration, data relationships
 
 - Farm Assist (Final Year Project)  
   A digital platform connecting farmers, agricultural experts, and suppliers  
