@@ -16,9 +16,9 @@ I am a full-stack web developer with hands-on experience in building, deploying,
 My work focuses on:
 - Developing scalable frontend applications with React and TypeScript  
 - Designing clean and secure REST APIs using Node.js and Express  
-- Working with MongoDB and Mongoose for data modeling  
+- Working with MongoDB and Mongoose for efficient data modeling  
 - Containerizing applications using Docker  
-- Deploying and managing applications on AWS with Nginx and Linux  
+- Deploying and managing applications on AWS using Nginx and Linux  
 - Following clean code practices and structured project architecture  
 
 Currently, I am strengthening my backend knowledge, system design fundamentals, and cloud-native development practices.
@@ -59,12 +59,12 @@ Currently, I am strengthening my backend knowledge, system design fundamentals, 
 
 - CareerSync  
   A full-stack platform for interview management and career tracking  
-  Tech: React, TypeScript, Node.js, Express, MongoDB, Docker, Nginx, AWS
+  Tech: React, TypeScript, Node.js, Express, MongoDB, Docker, Nginx, AWS  
 
-  - Bitezzo  
+- Bitezzo  
   A food ordering and management platform built to understand real-world application flow  
   Tech: React, TypeScript, Node.js, Express, MongoDB  
-  Focus Areas: Authentication, role-based access, API integration, data relationships
+  Focus Areas: Authentication, role-based access, API integration, data relationships  
 
 - Farm Assist (Final Year Project)  
   A digital platform connecting farmers, agricultural experts, and suppliers  
@@ -73,6 +73,19 @@ Currently, I am strengthening my backend knowledge, system design fundamentals, 
 - Portfolio Website  
   Responsive personal portfolio  
   Tech: HTML, CSS, JavaScript  
+
+---
+
+### What Bitezzo Added to My Learning
+
+Through the Bitezzo project, I gained practical experience in:
+- Designing complete frontend–backend integration  
+- Implementing authentication and authorization using JWT  
+- Structuring scalable APIs and modular backend architecture  
+- Handling real-world data relationships and validations  
+- Improving error handling and API response consistency  
+
+This project helped me transition from writing basic applications to building structured, production-oriented systems.
 
 ---
 
