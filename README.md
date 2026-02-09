@@ -103,7 +103,6 @@ This project helped me transition from writing basic applications to building st
 - Email: arshaqtk4@gmail.com  
 - WhatsApp: https://wa.me/919746843081  
 - GitHub: https://github.com/arshaqtk  
-- Portfolio: Coming soon
 
 ---
 
